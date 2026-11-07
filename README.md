@@ -35,6 +35,7 @@ insert battery into receptacle
 
 #### frame
 one side of the frame; used to elevate the pico above the board
+
 ![castellated frame](/assets/castellated-frame.png)
 
 
