@@ -10,35 +10,32 @@ Could also be used for other pico projects
 
 
 
-
-### Images:
-
-
-
-
-
-
-
 ### Assembly:
 
-solder frames to back of board (to elevate pico 2 xl above pcb)
+solder frames to back of board as necessary (to elevate pico 2 xl above pcb)
 
 solder pico lipo 2 xl onto frame
 
-
-
 solder buttons to board (test to make sure all buttons are placed)
 
-
-
 insert ribbon connector into ribbon receptacle
-
-
 
 insert battery into receptacle
 
 
+### Images:
+#### pcb
+![back no components](/assets/pcb-front-no-components.png)
+![front](/assets/pcb-front.png)
 
+#### layers
+![pcb layers](/assets/pcb-layers.png)
+#### schematic
+![schematic](/assets/schematic.png)
+
+#### frame
+one side of the frame; used to elevate the pico above the board
+![castellated frame](/assets/castellated-frame.png)
 
 
 BOM:
