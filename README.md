@@ -39,7 +39,7 @@ one side of the frame; used to elevate the pico above the board
 ![castellated frame](/assets/castellated-frame.png)
 
 
-BOM:
+### BOM:
 
 
 |component|webpage|notes|
