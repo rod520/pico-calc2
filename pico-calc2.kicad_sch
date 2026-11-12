@@ -7900,7 +7900,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "01113b47-9e78-4ea9-8fdf-b3a522842781")
 		(property "Reference" "H4"
@@ -9164,7 +9164,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "179fa6b4-354c-4c4a-86ba-c053f68dd530")
 		(property "Reference" "H6"
@@ -11387,7 +11387,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "45ed3595-c39e-460e-a81d-61b7cfe0d726")
 		(property "Reference" "H7"
@@ -11779,7 +11779,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5706fe95-b0f0-4dd7-bd25-2efafcf068ec")
 		(property "Reference" "H2"
@@ -12015,7 +12015,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "64a279a6-e9c3-4347-b119-16a0bdf957f6")
 		(property "Reference" "H3"
@@ -12801,7 +12801,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "814672ee-4e5f-47e9-ad30-158a30b361f7")
 		(property "Reference" "H5"
@@ -13925,7 +13925,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "9ce61fe3-b657-4b51-bb90-212cadd5f9ab")
 		(property "Reference" "H1"
@@ -15163,6 +15163,28 @@
 		)
 		(property "Description" ""
 			(at 95.758 140.716 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 82.55 140.97 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part" ""
+			(at 82.55 140.97 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
