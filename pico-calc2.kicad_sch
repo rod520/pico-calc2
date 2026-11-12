@@ -7975,7 +7975,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "027ca53a-b4ed-4bf2-b194-b01727bfb69f")
@@ -7999,7 +7999,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 300.99 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -8055,7 +8055,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "068606b4-1b1b-46c1-b135-1d0c27696ddd")
@@ -8079,7 +8079,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 300.99 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -8135,7 +8135,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "07543cec-02a5-43b2-8b64-5678568e6eef")
@@ -8159,7 +8159,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 346.71 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -8293,7 +8293,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "090dd1b9-f877-4d5f-bc8b-896a0b393d37")
@@ -8317,7 +8317,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 255.27 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -8609,7 +8609,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "0cc7ad14-d259-49d9-9ed3-e0bd0e61e6d9")
@@ -8633,7 +8633,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 278.13 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -8767,7 +8767,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "0f119ca6-fdbf-4cfd-84c3-988b64e3b129")
@@ -8791,7 +8791,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 346.71 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -8847,7 +8847,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "12b9e1d3-a898-4b1b-b3c4-bf682ebedf65")
@@ -8871,7 +8871,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 323.85 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -9239,7 +9239,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "18e749a2-9447-4307-afbf-b57226182cdf")
@@ -9263,7 +9263,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 346.71 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -9319,7 +9319,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "1a71fd24-673f-45df-849c-975a64091058")
@@ -9343,7 +9343,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 278.13 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -9477,7 +9477,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "1f84a955-d5ea-4be8-ba27-e71dca669021")
@@ -9501,7 +9501,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 255.27 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -9557,7 +9557,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "1f8fcbf2-2caf-4a9c-8ebc-a8e2966b8ec8")
@@ -9581,7 +9581,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 323.85 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -9637,7 +9637,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "21531d57-f5b4-4569-9c2b-3b3ace047ac3")
@@ -9661,7 +9661,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 255.27 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -9795,7 +9795,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "239ffa69-a710-4412-bc5a-173e33d8a464")
@@ -9819,7 +9819,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 278.13 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -9953,7 +9953,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "2930a346-18de-4f47-9e5f-2db82ffe7bbc")
@@ -9977,7 +9977,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 300.99 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -10033,7 +10033,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "2b05662a-837f-4481-934f-4a11d0ca60ac")
@@ -10057,7 +10057,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 278.13 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -10113,7 +10113,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "2b75512e-88f0-4fa3-8de6-188919eeaeb0")
@@ -10137,7 +10137,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 369.57 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -10271,7 +10271,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "356be629-652a-4730-9d84-710997a0aabf")
@@ -10295,7 +10295,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 300.99 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -10619,7 +10619,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "39a42405-abd0-4b00-8633-abd52a93a5d3")
@@ -10643,7 +10643,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 323.85 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -10699,7 +10699,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "3a2c68d7-aaca-4fd9-80b8-edd3bc06ecfa")
@@ -10723,7 +10723,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 278.13 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -10779,7 +10779,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "3ae92a9d-7e78-4a03-97d9-5770cef9f3c9")
@@ -10803,7 +10803,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 346.71 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -10883,7 +10883,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CONN_S-45S-0.5SH55"
+		(property "Footprint" "easyeda2kicad:FPC-SMD_AFC01-S45FCA-00"
 			(at 81.28 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -11068,7 +11068,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "3e0484f6-dd21-49ac-97af-e01fe04c5245")
@@ -11092,7 +11092,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 300.99 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -11226,7 +11226,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "434d69de-7b1f-4bbf-b3c9-2c3bf2e7778b")
@@ -11250,7 +11250,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 255.27 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -11306,7 +11306,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "45d3580f-4135-411d-ac2d-3da04d651ed2")
@@ -11330,7 +11330,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 323.85 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -11462,7 +11462,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "478bd70d-a4b3-4593-b895-ad2d055ceeec")
@@ -11486,7 +11486,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 278.13 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -11620,7 +11620,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "550c0986-d384-402d-9d6a-525bab279652")
@@ -11644,7 +11644,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 278.13 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -11854,7 +11854,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5c56f2b2-bf1f-4a00-afea-a330f8eea515")
@@ -11878,7 +11878,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 369.57 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -11934,7 +11934,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "632cc5de-e928-4e23-b87a-6cd01b8eaee9")
@@ -11958,7 +11958,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 369.57 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -12326,7 +12326,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "6c962400-3273-474c-9ab0-cd2b3dce2036")
@@ -12350,7 +12350,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 255.27 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -12642,7 +12642,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "7eeeb72c-62a0-4c83-bfae-c207866e7672")
@@ -12666,7 +12666,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 300.99 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -13208,7 +13208,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "893b0f14-9aa8-4d8f-a12e-9b7ed4e074bc")
@@ -13232,7 +13232,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 323.85 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -13288,7 +13288,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "89aa816b-3f17-450d-bdcf-a05a336be5e4")
@@ -13312,7 +13312,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 300.99 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -13446,7 +13446,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "90a9ea9d-6636-4b55-bdbd-2b6a84e57882")
@@ -13470,7 +13470,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 369.57 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -13526,7 +13526,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "91a35c87-5e3e-4a94-8a44-573be981f04d")
@@ -13550,7 +13550,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 278.13 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -13606,7 +13606,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "933b52cd-05a0-419e-95ff-5e931222cd2b")
@@ -13630,7 +13630,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 278.13 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -13764,7 +13764,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "9b03ac44-da93-497a-9818-6477b90694ae")
@@ -13788,7 +13788,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 346.71 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -13844,7 +13844,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "9b050caa-f34b-4aba-a307-888649690849")
@@ -13868,7 +13868,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 323.85 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -14000,7 +14000,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "9d27b22b-9a4c-458d-8d5b-1688d448563a")
@@ -14024,7 +14024,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 369.57 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -14080,7 +14080,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "9f7709f2-3e33-46ff-8bbf-0f620d79f309")
@@ -14104,7 +14104,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 346.71 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -14160,7 +14160,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "a1f95a94-5734-4577-9678-beb94646850e")
@@ -14184,7 +14184,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 369.57 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -14240,7 +14240,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "acdce352-2fdd-42ba-acf5-39af6b83014c")
@@ -14264,7 +14264,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 323.85 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -14320,7 +14320,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "b15eb5dd-a427-46ca-983a-f0fceba3d7df")
@@ -14344,7 +14344,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 300.99 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -14478,7 +14478,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "baec3495-1ab2-494e-8f00-ae467f6acd0b")
@@ -14502,7 +14502,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 255.27 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -14558,7 +14558,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "c40af350-673e-4680-b9ca-caa4e50b90d1")
@@ -14582,7 +14582,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 255.27 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -14638,7 +14638,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "c493c22c-ec64-4581-a82d-43044b98a59a")
@@ -14662,7 +14662,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 369.57 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -14718,7 +14718,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "c7c69863-60fe-49e9-9d09-65981e6e98d0")
@@ -14742,7 +14742,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 255.27 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -14798,7 +14798,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "ccc22dd1-88ce-4ff6-b9a9-eb7877df56e5")
@@ -14822,7 +14822,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 255.27 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -14878,7 +14878,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "cd6b7c1e-c669-4073-8d9e-37cfa1997bf4")
@@ -14902,7 +14902,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 323.85 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -15036,7 +15036,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "cfaf008f-ca21-43c7-9182-1a7369957479")
@@ -15060,7 +15060,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 278.13 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -15139,7 +15139,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:Texas_RGV0016A_VQFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm"
+		(property "Footprint" "easyeda2kicad:VQFN-16_L3.0-W3.0-P0.50-TL-EP1.5"
 			(at 95.758 143.256 0)
 			(hide yes)
 			(show_name no)
@@ -15262,7 +15262,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d02e3569-22bc-4133-a733-a5d41c2b119e")
@@ -15286,7 +15286,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 369.57 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -15342,7 +15342,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d2806040-380a-43b2-8149-b380462c8d6a")
@@ -15366,7 +15366,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 369.57 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -15422,7 +15422,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d383e917-d717-4153-b1f0-6bcabf70fc47")
@@ -15446,7 +15446,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 300.99 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -15502,7 +15502,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d70fc9a2-fdce-4877-9d0b-11980eb1f49c")
@@ -15526,7 +15526,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 323.85 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -15582,7 +15582,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d808579b-7a82-4166-ba7e-075e5ce1336e")
@@ -15606,7 +15606,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 369.57 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -15662,7 +15662,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "dc7b5381-9b9c-45e1-9129-a726c334c3fb")
@@ -15686,7 +15686,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 346.71 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -15742,7 +15742,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "dda23365-8e95-4ab5-8897-145a4087214e")
@@ -15766,7 +15766,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 255.27 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -15822,7 +15822,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "e13d31ea-4aea-44d8-b80e-7b9e40e5f395")
@@ -15846,7 +15846,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 300.99 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -15902,7 +15902,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "e8b07b89-5002-480b-a5f9-f46fd67040d2")
@@ -15926,7 +15926,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 323.85 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -15982,7 +15982,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "f079b557-f1b9-4b1b-a9b2-222ce8089efb")
@@ -16006,7 +16006,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 346.71 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -16139,7 +16139,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "fac193e9-3ee4-4a10-9d32-1c678a5917d0")
@@ -16163,7 +16163,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 346.71 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -16219,7 +16219,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "ffdd7f80-7c42-45d9-9173-1e3995dbc4fa")
@@ -16243,7 +16243,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:CAX TS-6645SS4.5x4.5x3.5-160"
+		(property "Footprint" "easyeda2kicad:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.0"
 			(at 346.71 118.11 0)
 			(hide yes)
 			(show_name no)
