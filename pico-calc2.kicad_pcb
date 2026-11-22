@@ -188,7 +188,7 @@
 		(path "/9b050caa-f34b-4aba-a307-888649690849")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -442,7 +442,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Mounting Hole without connection"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -469,6 +469,12 @@
 		(path "/9ce61fe3-b657-4b51-bb90-212cadd5f9ab")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
 		(attr exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -575,7 +581,7 @@
 		(path "/d2806040-380a-43b2-8149-b380462c8d6a")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -852,7 +858,7 @@
 		(path "/090dd1b9-f877-4d5f-bc8b-896a0b393d37")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -1129,7 +1135,7 @@
 		(path "/3a2c68d7-aaca-4fd9-80b8-edd3bc06ecfa")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -1406,7 +1412,7 @@
 		(path "/f079b557-f1b9-4b1b-a9b2-222ce8089efb")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -1683,7 +1689,7 @@
 		(path "/1f84a955-d5ea-4be8-ba27-e71dca669021")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -1960,7 +1966,7 @@
 		(path "/e8b07b89-5002-480b-a5f9-f46fd67040d2")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -2237,7 +2243,7 @@
 		(path "/e13d31ea-4aea-44d8-b80e-7b9e40e5f395")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -2514,7 +2520,7 @@
 		(path "/9f7709f2-3e33-46ff-8bbf-0f620d79f309")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -2768,7 +2774,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Mounting Hole without connection"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2795,6 +2801,12 @@
 		(path "/5706fe95-b0f0-4dd7-bd25-2efafcf068ec")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
 		(attr exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -2901,7 +2913,7 @@
 		(path "/933b52cd-05a0-419e-95ff-5e931222cd2b")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -3178,7 +3190,7 @@
 		(path "/3e0484f6-dd21-49ac-97af-e01fe04c5245")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -3455,7 +3467,7 @@
 		(path "/07543cec-02a5-43b2-8b64-5678568e6eef")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -3732,7 +3744,7 @@
 		(path "/12b9e1d3-a898-4b1b-b3c4-bf682ebedf65")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -4009,7 +4021,7 @@
 		(path "/550c0986-d384-402d-9d6a-525bab279652")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -4286,7 +4298,7 @@
 		(path "/0cc7ad14-d259-49d9-9ed3-e0bd0e61e6d9")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start 2.25 -2.25)
@@ -4563,7 +4575,7 @@
 		(path "/6c962400-3273-474c-9ab0-cd2b3dce2036")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -4840,7 +4852,7 @@
 		(path "/ccc22dd1-88ce-4ff6-b9a9-eb7877df56e5")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -5117,7 +5129,7 @@
 		(path "/21531d57-f5b4-4569-9c2b-3b3ace047ac3")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -5394,7 +5406,7 @@
 		(path "/90a9ea9d-6636-4b55-bdbd-2b6a84e57882")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -5671,7 +5683,7 @@
 		(path "/d808579b-7a82-4166-ba7e-075e5ce1336e")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -5925,7 +5937,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Mounting Hole without connection"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -5952,6 +5964,12 @@
 		(path "/179fa6b4-354c-4c4a-86ba-c053f68dd530")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
 		(attr exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -6058,7 +6076,7 @@
 		(path "/fac193e9-3ee4-4a10-9d32-1c678a5917d0")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -6335,7 +6353,7 @@
 		(path "/2b75512e-88f0-4fa3-8de6-188919eeaeb0")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -6612,7 +6630,7 @@
 		(path "/9d27b22b-9a4c-458d-8d5b-1688d448563a")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -6889,7 +6907,7 @@
 		(path "/239ffa69-a710-4412-bc5a-173e33d8a464")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -7166,7 +7184,7 @@
 		(path "/cd6b7c1e-c669-4073-8d9e-37cfa1997bf4")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -7443,7 +7461,7 @@
 		(path "/89aa816b-3f17-450d-bdcf-a05a336be5e4")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -7720,7 +7738,7 @@
 		(path "/c7c69863-60fe-49e9-9d09-65981e6e98d0")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -7997,7 +8015,7 @@
 		(path "/dda23365-8e95-4ab5-8897-145a4087214e")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start 2.25 -2.25)
@@ -8274,7 +8292,7 @@
 		(path "/3ae92a9d-7e78-4a03-97d9-5770cef9f3c9")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -8551,7 +8569,7 @@
 		(path "/1a71fd24-673f-45df-849c-975a64091058")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -8828,7 +8846,7 @@
 		(path "/c493c22c-ec64-4581-a82d-43044b98a59a")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -9105,7 +9123,7 @@
 		(path "/068606b4-1b1b-46c1-b135-1d0c27696ddd")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -9382,7 +9400,7 @@
 		(path "/a1f95a94-5734-4577-9678-beb94646850e")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -9999,7 +10017,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Mounting Hole without connection"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -10026,6 +10044,12 @@
 		(path "/45ed3595-c39e-460e-a81d-61b7cfe0d726")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
 		(attr exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -10109,7 +10133,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Mounting Hole without connection"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -10136,6 +10160,12 @@
 		(path "/814672ee-4e5f-47e9-ad30-158a30b361f7")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
 		(attr exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -10242,7 +10272,7 @@
 		(path "/cfaf008f-ca21-43c7-9182-1a7369957479")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -10519,7 +10549,7 @@
 		(path "/2b05662a-837f-4481-934f-4a11d0ca60ac")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -11159,7 +11189,7 @@
 		(path "/9b03ac44-da93-497a-9818-6477b90694ae")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -11436,7 +11466,7 @@
 		(path "/b15eb5dd-a427-46ca-983a-f0fceba3d7df")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -11713,7 +11743,7 @@
 		(path "/356be629-652a-4730-9d84-710997a0aabf")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -11967,7 +11997,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Mounting Hole without connection"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11994,6 +12024,12 @@
 		(path "/01113b47-9e78-4ea9-8fdf-b3a522842781")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
 		(attr exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -12100,7 +12136,7 @@
 		(path "/dc7b5381-9b9c-45e1-9129-a726c334c3fb")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -12354,7 +12390,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Mounting Hole without connection"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -12381,6 +12417,12 @@
 		(path "/64a279a6-e9c3-4347-b119-16a0bdf957f6")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
 		(attr exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -12487,7 +12529,7 @@
 		(path "/1f8fcbf2-2caf-4a9c-8ebc-a8e2966b8ec8")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -12764,7 +12806,7 @@
 		(path "/5c56f2b2-bf1f-4a00-afea-a330f8eea515")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -13041,7 +13083,7 @@
 		(path "/d02e3569-22bc-4133-a733-a5d41c2b119e")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -13318,7 +13360,7 @@
 		(path "/39a42405-abd0-4b00-8633-abd52a93a5d3")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -13595,7 +13637,7 @@
 		(path "/d383e917-d717-4153-b1f0-6bcabf70fc47")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -13872,7 +13914,7 @@
 		(path "/478bd70d-a4b3-4593-b895-ad2d055ceeec")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -14149,7 +14191,7 @@
 		(path "/acdce352-2fdd-42ba-acf5-39af6b83014c")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -14426,7 +14468,7 @@
 		(path "/2930a346-18de-4f47-9e5f-2db82ffe7bbc")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -14703,7 +14745,7 @@
 		(path "/434d69de-7b1f-4bbf-b3c9-2c3bf2e7778b")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -14980,7 +15022,7 @@
 		(path "/45d3580f-4135-411d-ac2d-3da04d651ed2")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -15257,7 +15299,7 @@
 		(path "/027ca53a-b4ed-4bf2-b194-b01727bfb69f")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -15534,7 +15576,7 @@
 		(path "/baec3495-1ab2-494e-8f00-ae467f6acd0b")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -15811,7 +15853,7 @@
 		(path "/893b0f14-9aa8-4d8f-a12e-9b7ed4e074bc")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -16088,7 +16130,7 @@
 		(path "/ffdd7f80-7c42-45d9-9173-1e3995dbc4fa")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -16365,7 +16407,7 @@
 		(path "/0f119ca6-fdbf-4cfd-84c3-988b64e3b129")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -16642,7 +16684,7 @@
 		(path "/7eeeb72c-62a0-4c83-bfae-c207866e7672")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -16919,7 +16961,7 @@
 		(path "/c40af350-673e-4680-b9ca-caa4e50b90d1")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -17196,7 +17238,7 @@
 		(path "/91a35c87-5e3e-4a94-8a44-573be981f04d")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -17473,7 +17515,7 @@
 		(path "/632cc5de-e928-4e23-b87a-6cd01b8eaee9")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -17750,7 +17792,7 @@
 		(path "/d70fc9a2-fdce-4877-9d0b-11980eb1f49c")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -18027,7 +18069,7 @@
 		(path "/18e749a2-9447-4307-afbf-b57226182cdf")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
-		(attr through_hole exclude_from_pos_files dnp)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers yes)
 		(fp_line
 			(start -2.25 -2.25)
@@ -18273,7 +18315,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL05A474KP5NNNC_C47339.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -18287,7 +18329,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10V 470nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -18301,10 +18343,212 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C47339"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "15ac6361-85fe-4a77-b42c-5366ade5e5e0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Stock" "84633"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "07553741-9db1-41e9-bb06-f375463b01ce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Price" "0.007USD"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "63034ce5-4bb3-4fec-9833-8cb04852bb73")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Process" "SMT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "dc918c2e-b1f8-4d5c-bd2e-64d11be3b89e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Minimum Qty" "20"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a6255f11-54e7-4076-9208-62b090880d88")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Attrition Qty" "12"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "506a48b6-86b2-4956-bd30-cd9fa6875211")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Class" "Preferred Component"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d51f191c-260b-4ce6-bbb9-a41a8ea4e849")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Category" "Capacitors,Multilayer Ceramic Capacitors MLCC - SMD/SMT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fb6fe4fd-4422-4a61-a1d0-5d4aefe320ed")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0c5c6148-c331-455b-bd54-291f25c8c77a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Part" "CL05A474KP5NNNC"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0f9ec0b6-f453-4cf4-adb7-d29c73659399")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage Rated" "10V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b5268cb3-ccf5-414d-a5c1-8755ea81e75d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Tolerance" "±10%"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "830e7a1e-912a-4d8d-b3f8-7fb066aa41cc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Capacitance" "470nF"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "25e05c9d-1e3f-483e-962f-bc5cfc84563f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Temperature Coefficient" "X5R"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1250594a-8b0b-4ddf-b5d2-ec28adb337e1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/1493ee9c-39cc-4eeb-9659-6b7fdda0f4ec")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(solder_mask_margin 0.038)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
@@ -20709,7 +20953,7 @@
 			(size 3.2 1.6)
 			(layers "B.Cu" "B.Mask")
 			(roundrect_rratio 0.5)
-			(net "/row8")
+			(net "unconnected-(U1-GP43{slash}A3-Pad54)")
 			(pinfunction "GP43/A3_54")
 			(pintype "bidirectional")
 			(uuid "b0e70321-ef12-4787-a385-96e36de4572b")
@@ -20729,7 +20973,7 @@
 			(size 3.2 1.6)
 			(layers "B.Cu" "B.Mask")
 			(roundrect_rratio 0.5)
-			(net "unconnected-(U1-GP45{slash}A5-Pad56)")
+			(net "/row8")
 			(pinfunction "GP45/A5_56")
 			(pintype "bidirectional")
 			(uuid "c5691017-164e-4552-a121-5f6546ba897e")
@@ -20739,7 +20983,7 @@
 			(size 3.2 1.6)
 			(layers "B.Cu" "B.Mask")
 			(roundrect_rratio 0.5)
-			(net "unconnected-(U1-GP46{slash}A6-Pad57)")
+			(net "/col3")
 			(pinfunction "GP46/A6_57")
 			(pintype "bidirectional")
 			(uuid "bbef528f-4bf4-4e80-9226-d7984bcc4be5")
@@ -20789,7 +21033,7 @@
 			(size 3.2 1.6)
 			(layers "B.Cu" "B.Mask")
 			(roundrect_rratio 0.5)
-			(net "/col3")
+			(net "unconnected-(U1-GP47{slash}PSRAM-Pad59)")
 			(pinfunction "GP47/PSRAM_59")
 			(pintype "bidirectional")
 			(uuid "a86f329a-0fe4-4512-8d2d-d7ec5cb3ed78")
@@ -20845,7 +21089,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps60151.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -20877,6 +21121,35 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f3faf539-63ca-46e1-bae9-fc73e0b40043")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Part" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b8f3926b-495b-48a7-892e-d694f2b8bf6a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -20884,6 +21157,14 @@
 		(path "/cfb32fa6-7ba4-4375-9b6d-3539a5a5684b")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "13" "14" "15" "16" "1" "12" "2" "10" "3" "11" "4" "9" "17" "8"
+					"7" "6" "5"
+				)
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21255,7 +21536,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL05A474KP5NNNC_C47339.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -21269,7 +21550,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10V 470nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -21283,10 +21564,212 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C47339"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4cb95405-bd19-4229-b131-0f6d76ce73e4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Stock" "84633"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "92f34b86-71da-465c-becc-4c050d7351bb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Price" "0.007USD"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "880584d2-acd4-4df3-becf-81735d2f8065")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Process" "SMT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "39607e1c-490b-4297-91d1-0b39d237d72c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Minimum Qty" "20"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "818b7d49-3bb3-436a-8ea4-3642fc5b5e37")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Attrition Qty" "12"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6519e531-c2d6-4b5f-8fe6-74494eaa3ffe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Class" "Preferred Component"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fc54e42f-f7b0-47bb-8638-1327b6b30295")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Category" "Capacitors,Multilayer Ceramic Capacitors MLCC - SMD/SMT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6267c1bc-a665-48d7-89e4-b44e27383541")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3199ac58-e3b3-45aa-b3ee-f8fa3fa76047")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Part" "CL05A474KP5NNNC"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "41c92da5-8837-48cb-a5cc-14cb6aa1effc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage Rated" "10V"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "09d83792-51e6-4a5b-bdd4-02359567daeb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Tolerance" "±10%"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9c2b8531-dd84-4b11-83f8-4878d77b36d5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Capacitance" "470nF"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fe3dc0ab-548e-4b0c-9e23-c82f40950401")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Temperature Coefficient" "X5R"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c849c8c1-65ec-4d14-acb1-431a32e409db")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6a5333ae-4026-4f87-bae5-39d9024c488c")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(solder_mask_margin 0.038)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
@@ -21444,7 +21927,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A105KB8NNNC_C15849.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -21458,7 +21941,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 1uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -21472,10 +21955,212 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C15849"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "dfe1966a-0adf-47c9-8dea-0125654b2203")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Stock" "11535980"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f4ba312b-b97a-4b16-8171-e710269bc79f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Price" "0.008USD"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8ecbc25c-4689-4fd5-b86f-2b4c2b004071")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Process" "SMT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c732d5ab-5d5b-4e0e-b7ed-b1eb4c05a0f7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Minimum Qty" "20"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f88fedb1-aa2e-432b-a2f4-6e3dea396bbb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Attrition Qty" "10"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3e65582b-45bb-4e5e-9e80-ba3a47b63cc2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Class" "Basic Component"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c50cea0e-1746-4f15-ac28-eeb97563d5c1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Category" "Capacitors,Multilayer Ceramic Capacitors MLCC - SMD/SMT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b6742d0e-7867-4b10-a050-de4c116f13e8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c36545fc-b871-4801-a41b-56bb55c3d5c3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Part" "CL10A105KB8NNNC"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0f4f9aa3-b219-4d74-83df-1dd751f487b9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage Rated" "50V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5ce0316a-67b2-4275-8f0a-a4730c46082a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Tolerance" "±10%"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a00ef6b0-ef72-46e7-a45b-028ff3651c17")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Capacitance" "1uF"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "39290f3c-f7f1-4bfd-9bf5-8a259fe9d757")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Temperature Coefficient" "X5R"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "20289dd7-bbf9-42cb-a702-74289c818cb5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/738f3730-9989-4aad-ab65-a520b7a0e8c6")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(solder_mask_margin 0.038)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
@@ -21630,7 +22315,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://focuslcds.com/wp-content/uploads/Specs/E26RE-RW300-N_spec.pdf"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -21662,6 +22347,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -21669,6 +22355,16 @@
 		(path "/3b071567-8bb9-4552-bdef-035c169001d8")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12" "13" "14" "15"
+					"16" "17" "18" "19" "20" "21" "22" "23" "24" "25" "26" "27" "28" "29"
+					"30" "31" "32" "33" "34" "35" "36" "37" "38" "39" "40" "41" "42" "43"
+					"44" "45"
+				)
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -22326,7 +23022,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A105KB8NNNC_C15849.pdf"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -22340,7 +23036,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 1uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -22354,10 +23050,212 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C15849"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1ddce11f-b278-4cbc-96ae-91816f4aa916")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Stock" "11535980"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b9c6d3ec-feca-4ebc-8eb2-4a8f92ea195f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Price" "0.008USD"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4d2f7e51-29a8-48ab-99b6-482b588e43d2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Process" "SMT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "66cc4a53-aa6e-412a-9e12-bb0e26f98205")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Minimum Qty" "20"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "42fc5f34-0612-41ed-8cda-2f1f6663ad5b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Attrition Qty" "10"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c2769573-d993-48f8-8b53-e8f1ee2fd957")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Class" "Basic Component"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "876ebdc3-629e-4bbb-8b4d-3cb8bf013780")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Category" "Capacitors,Multilayer Ceramic Capacitors MLCC - SMD/SMT"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "961c6bde-548a-4b6b-a378-7a4b4a984450")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "25d64277-8f10-49af-8d5c-d0249eb3ef28")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Part" "CL10A105KB8NNNC"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "88556d7c-e096-48e3-9d70-d5e02fdade70")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage Rated" "50V"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5ab2ba33-8eb9-443a-9347-467c82c27136")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Tolerance" "±10%"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9c2357e5-4c9b-4262-b005-1f398f423c63")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Capacitance" "1uF"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "30d9412e-7b1f-4e26-b665-215c993a9455")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Temperature Coefficient" "X5R"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ee231d70-837c-423e-8171-a73f09e123e0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/0b74a164-cec3-440b-8764-f68a048720d3")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(solder_mask_margin 0.038)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
@@ -22515,7 +23413,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF8201T5E_C25981.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -22529,7 +23427,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mW Thick Film Resistors 75V ±100ppm/°C ±1% 8.2kΩ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -22543,10 +23441,254 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C25981"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d98de738-9d8e-4202-844c-2840113264b4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Stock" "452135"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6003c2de-a745-4730-b384-2d84c0594d16")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Price" "0.004USD"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "48586d16-32b1-42fd-a2a0-aeb79fbe23fd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Process" "SMT"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "64cc99d4-a5d8-46c9-aec8-13a1e8135716")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Minimum Qty" "20"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a2375bd9-cdb3-4aed-9fd5-29daf1d1efda")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Attrition Qty" "10"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2d6a2987-2726-45f6-a01f-8499ffebba41")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Class" "Basic Component"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f21de0c7-e87b-48d3-9c7c-3c9c009fdaab")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Category" "Resistors,Chip Resistor - Surface Mount"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "be2f757e-85fe-4711-bb7a-f71e1599036c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "425f1599-bec8-44ea-b5d3-277b3e50ad8a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Part" "0603WAF8201T5E"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4b22204a-e73f-4afa-86f6-efba96875da5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Resistance" "8.2kΩ"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "25e87618-5a4c-4c83-a06c-270bd02000f6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Power(Watts)" "100mW"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "09820171-ec2e-4e12-bcb5-f40b6a7644dc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Type" "Thick Film Resistors"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "91346522-71ef-4be7-90eb-cddbf6dfb478")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Overload Voltage (Max)" "75V"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0029176a-9a90-40c6-bbc2-21ef55437d72")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Operating Temperature Range" "-55°C~+155°C"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d1980444-6778-489e-b279-283dce57761f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Tolerance" "±1%"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fd63ef95-ba08-4a58-97f8-bad3700b0e3f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Temperature Coefficient" "±100ppm/°C"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "32efd09b-9732-440b-8d98-124b0a0f25c5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/380a91e2-ebdf-4df9-8803-f26fa1194cf4")
 		(sheetname "/")
 		(sheetfile "pico-calc2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(solder_mask_margin 0.038)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
@@ -23058,20 +24200,20 @@
 		(uuid "6bcfb22d-097c-4b87-aaa1-5558ea54bc6c")
 	)
 	(segment
-		(start 54.760001 47.039999)
-		(end 54.760001 48.863601)
+		(start 56.8 45)
+		(end 59.930001 48.130001)
 		(width 0.2)
 		(layer "B.Cu")
 		(net "/col3")
-		(uuid "11aa9501-2be8-42c9-b959-2e31fbfbcaf8")
+		(uuid "2938acd6-6778-4600-a0c4-916ae6dda7fb")
 	)
 	(segment
-		(start 56.8 45)
-		(end 54.760001 47.039999)
+		(start 59.930001 48.130001)
+		(end 59.930001 48.863601)
 		(width 0.2)
 		(layer "B.Cu")
 		(net "/col3")
-		(uuid "72aa3754-e89c-45f6-868e-d3c194c9f1d8")
+		(uuid "b41f8053-046e-4472-830e-6613b5627d48")
 	)
 	(segment
 		(start 69.5 88.5)
@@ -24882,28 +26024,20 @@
 		(uuid "38f2e6cb-ec62-4b2f-ac74-978548a02a38")
 	)
 	(segment
-		(start 82.32 63.7236)
-		(end 67.460001 48.863601)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "/row8")
-		(uuid "5aa1a967-bae0-46d3-a4a7-96e777c75dd6")
-	)
-	(segment
-		(start 87.4 63.7236)
+		(start 83.6064 70)
 		(end 87.4 70)
 		(width 0.2)
 		(layer "B.Cu")
 		(net "/row8")
-		(uuid "760ee667-004c-4b2c-877e-e4603f98ade1")
+		(uuid "56a8b179-ab46-4662-aa55-690f42bf98b7")
 	)
 	(segment
-		(start 87.4 63.7236)
-		(end 82.32 63.7236)
+		(start 62.470001 48.863601)
+		(end 83.6064 70)
 		(width 0.2)
 		(layer "B.Cu")
 		(net "/row8")
-		(uuid "d763e960-4c5d-47f6-96e9-efc0ea8987f1")
+		(uuid "e5f41242-c9b3-4b82-8d45-ccd52ee37a0c")
 	)
 	(segment
 		(start 18.5 6.5)
@@ -27419,14 +28553,14 @@
 				(xy 21.342266 16.377428) (xy 21.222428 16.497266) (xy 21.133453 16.641515) (xy 21.080143 16.802396)
 				(xy 21.07 16.901682) (xy 17.123289 16.901682) (xy 18.94259 15.082381) (xy 18.977238 15.068029) (xy 20.978803 15.068029)
 				(xy 21.003301 15.074593) (xy 21.021363 15.085021) (xy 21.046838 15.091847) (xy 21.097788 15.1055)
-				(xy 21.09779 15.1055) (xy 21.176914 15.1055) (xy 22.085842 15.1055) (xy 22.12049 15.119852) (xy 22.134842 15.1545)
-				(xy 22.127775 15.17985) (xy 22.081981 15.255601) (xy 22.03141 15.417888) (xy 22.031409 15.417894)
-				(xy 22.025 15.488429) (xy 22.025 15.495) (xy 23.974999 15.495) (xy 23.974999 15.488431) (xy 23.96859 15.417893)
-				(xy 23.968589 15.417888) (xy 23.928012 15.287671) (xy 23.931406 15.250322) (xy 23.960215 15.226312)
-				(xy 23.997564 15.229706) (xy 24.000223 15.231406) (xy 24.000237 15.231383) (xy 24.003017 15.232988)
-				(xy 24.003018 15.232989) (xy 24.07154 15.27255) (xy 24.107007 15.282053) (xy 24.147965 15.293029)
-				(xy 24.147967 15.293029) (xy 25.12757 15.293029) (xy 25.162218 15.307381) (xy 25.17657 15.342029)
-				(xy 25.1734 15.357963) (xy 25.173538 15.358) (xy 25.172976 15.360097) (xy 25.17284 15.360781) (xy 25.172706 15.361103)
+				(xy 21.09779 15.1055) (xy 22.085842 15.1055) (xy 22.12049 15.119852) (xy 22.134842 15.1545) (xy 22.127775 15.17985)
+				(xy 22.081981 15.255601) (xy 22.03141 15.417888) (xy 22.031409 15.417894) (xy 22.025 15.488429)
+				(xy 22.025 15.495) (xy 23.974999 15.495) (xy 23.974999 15.488431) (xy 23.96859 15.417893) (xy 23.968589 15.417888)
+				(xy 23.928012 15.287671) (xy 23.931406 15.250322) (xy 23.960215 15.226312) (xy 23.997564 15.229706)
+				(xy 24.000223 15.231406) (xy 24.000237 15.231383) (xy 24.003017 15.232988) (xy 24.003018 15.232989)
+				(xy 24.07154 15.27255) (xy 24.107007 15.282053) (xy 24.147965 15.293029) (xy 24.147967 15.293029)
+				(xy 25.12757 15.293029) (xy 25.162218 15.307381) (xy 25.17657 15.342029) (xy 25.1734 15.357963)
+				(xy 25.173538 15.358) (xy 25.172976 15.360097) (xy 25.17284 15.360781) (xy 25.172706 15.361103)
 				(xy 25.153419 15.433079) (xy 25.133313 15.461137) (xy 25.082028 15.495406) (xy 25.082024 15.495409)
 				(xy 24.992878 15.584555) (xy 24.922839 15.689378) (xy 24.874596 15.805848) (xy 24.874594 15.805855)
 				(xy 24.86531 15.852528) (xy 24.86531 15.852529) (xy 25.726002 15.852529) (xy 25.76065 15.866881)
